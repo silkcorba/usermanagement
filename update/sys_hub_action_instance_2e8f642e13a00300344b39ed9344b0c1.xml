@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Lookup Records">4f3fe391c30003002841b63b12d3ae7a</action_type>
+        <comment/>
+        <compiled_snapshot display_value="Lookup Records">4f3fe391c30003002841b63b12d3ae7a</compiled_snapshot>
+        <display_text/>
+        <flow display_value="User Off-Boarding">9e8f642e13a00300344b39ed9344b0b1</flow>
+        <order>4</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-15 20:37:45</sys_created_on>
+        <sys_id>2e8f642e13a00300344b39ed9344b0c1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="User Management" source="sn_user_management">a1e964ee13600300344b39ed9344b036</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Management">a1e964ee13600300344b39ed9344b036</sys_scope>
+        <sys_update_name>sys_hub_action_instance_2e8f642e13a00300344b39ed9344b0c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-15 20:37:47</sys_updated_on>
+        <ui_id>d00170b2-ea66-4162-923e-5ccfbbcd250d</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=2e8f642e13a00300344b39ed9344b0c1"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2e8f642e13a00300344b39ed9344b0c1</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-15 20:37:45</sys_created_on>
+        <sys_id>628f642e13a00300344b39ed9344b0c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-15 20:37:45</sys_updated_on>
+        <value>task</value>
+        <variable display_value="">c33fe391c30003002841b63b12d3ae7d</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=2e8f642e13a00300344b39ed9344b0c1"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>Condition</field>
+        <id>2e8f642e13a00300344b39ed9344b0c1</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-15 20:37:45</sys_created_on>
+        <sys_id>2e8f642e13a00300344b39ed9344b0c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-15 20:37:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_4f3fe391c30003002841b63b12d3ae7a</table>
+        <value>assigned_to={{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>Table</field>
+        <id>2e8f642e13a00300344b39ed9344b0c1</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-15 20:37:45</sys_created_on>
+        <sys_id>ee8f642e13a00300344b39ed9344b0c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-15 20:37:45</sys_updated_on>
+        <table>var__m_sys_hub_action_input_4f3fe391c30003002841b63b12d3ae7a</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

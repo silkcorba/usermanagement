@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_hub_flow">
-    <sys_hub_flow action="INSERT_OR_UPDATE">
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <active>true</active>
         <description/>
         <label_cache>[{"name":"9a0d0495-51ce-4756-bc02-3a7de30d1e17.email","label":"Action 6➛email","reference":"sys_email","reference_display":"email"},{"name":"85c2289e-a396-4f20-906d-22f0e297e217.table_name","label":"Action 4.1➛Task Table","reference":"task","reference_display":"Task Table"},{"name":"85c2289e-a396-4f20-906d-22f0e297e217.record","label":"Action 4.1➛Task Record","reference":"task","reference_display":"Task Record"},{"name":"6adab965-41b6-48be-9f28-b43961ea2274.email","label":"Action 5➛email","reference":"sys_email","reference_display":"email"},{"name":"d00170b2-ea66-4162-923e-5ccfbbcd250d.Table","label":"Action 3➛Task Table","reference":"task","reference_display":"Task Table"},{"name":"d00170b2-ea66-4162-923e-5ccfbbcd250d.Count","label":"Action 3➛Count","reference_display":"Count"},{"name":"8a096a73-111c-40f3-8786-4d8b08ec60a7.table_name","label":"Action 2.1➛Request Table","reference":"sc_request","reference_display":"Request Table"},{"name":"8a096a73-111c-40f3-8786-4d8b08ec60a7.record","label":"Action 2.1➛Request Record","reference":"sc_request","reference_display":"Request Record"},{"name":"b574a413-4992-413c-a8b7-9dc3525f5020.Table","label":"Action 1➛Request Table","reference":"sc_request","reference_display":"Request Table"},{"name":"b574a413-4992-413c-a8b7-9dc3525f5020.Count","label":"Action 1➛Count","reference_display":"Count"},{"name":"Updated_1.current","label":"Trigger➛User Record","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"b574a413-4992-413c-a8b7-9dc3525f5020.Records","label":"Action 1➛Request Records","reference":"sc_request","reference_display":"Request Records"},{"name":"e818b472-e609-4819-a426-d6e0865fc9f2.item","label":"Action 2➛Request Records Record","reference":"sc_request","reference_display":"Request Records Record"},{"name":"Updated_1.current.manager","label":"Trigger➛User Record➛Manager","reference":"sys_user","reference_display":"Manager","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"},{"name":"d00170b2-ea66-4162-923e-5ccfbbcd250d.Records","label":"Action 3➛Task Records","reference":"task","reference_display":"Task Records"},{"name":"4b4c9cc2-aef3-4361-aacd-155209d7525f.item","label":"Action 4➛Task Records Record","reference":"task","reference_display":"Task Records Record"}]</label_cache>
-        <latest_snapshot display_value="User Off-Boarding">2b665943db648300efc65404ce9619d3</latest_snapshot>
         <name>User Off-Boarding</name>
-        <show_draft_actions>false</show_draft_actions>
+        <parent_flow display_value="User Off-Boarding">330aa4ee13600300344b39ed9344b0da</parent_flow>
         <status>published</status>
-        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-15 20:13:48</sys_created_on>
-        <sys_id>330aa4ee13600300344b39ed9344b0da</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_created_on>2017-08-17 12:44:37</sys_created_on>
+        <sys_id>2b665943db648300efc65404ce9619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>User Off-Boarding</sys_name>
         <sys_package display_value="User Management" source="sn_user_management">a1e964ee13600300344b39ed9344b036</sys_package>
         <sys_policy/>
         <sys_scope display_value="User Management">a1e964ee13600300344b39ed9344b036</sys_scope>
-        <sys_update_name>sys_hub_flow_330aa4ee13600300344b39ed9344b0da</sys_update_name>
+        <sys_update_name>sys_hub_flow_snapshot_2b665943db648300efc65404ce9619d3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-17 12:44:39</sys_updated_on>
-    </sys_hub_flow>
+        <sys_updated_on>2017-08-17 12:44:37</sys_updated_on>
+    </sys_hub_flow_snapshot>
 </record_update>

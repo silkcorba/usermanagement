@@ -8,20 +8,20 @@
         <compiled_snapshot display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="User Off-Boarding">330aa4ee13600300344b39ed9344b0da</flow>
-        <order>5.1</order>
+        <order>4.1</order>
         <parent_ui_id>4b4c9cc2-aef3-4361-aacd-155209d7525f</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-15 20:28:18</sys_created_on>
         <sys_id>446d2c6613a00300344b39ed9344b0fd</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name/>
         <sys_package display_value="User Management" source="sn_user_management">a1e964ee13600300344b39ed9344b036</sys_package>
         <sys_policy/>
         <sys_scope display_value="User Management">a1e964ee13600300344b39ed9344b036</sys_scope>
         <sys_update_name>sys_hub_action_instance_446d2c6613a00300344b39ed9344b0fd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-15 20:37:47</sys_updated_on>
+        <sys_updated_on>2017-08-17 12:44:31</sys_updated_on>
         <ui_id>85c2289e-a396-4f20-906d-22f0e297e217</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=446d2c6613a00300344b39ed9344b0fd"/>

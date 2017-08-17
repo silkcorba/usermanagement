@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <comment>Notify manager of requests cancelled and tasks reassigned</comment>
+        <compiled_snapshot display_value="Send Email">716281160b100300d97d8bf637673ac7</compiled_snapshot>
+        <display_text/>
+        <flow display_value="User Off-Boarding">f098d5c3db648300efc65404ce961916</flow>
+        <order>5</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-17 12:54:01</sys_created_on>
+        <sys_id>c198d5c3db648300efc65404ce961936</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="User Management" source="sn_user_management">a1e964ee13600300344b39ed9344b036</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Management">a1e964ee13600300344b39ed9344b036</sys_scope>
+        <sys_update_name>sys_hub_action_instance_c198d5c3db648300efc65404ce961936</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-17 12:54:01</sys_updated_on>
+        <ui_id>6adab965-41b6-48be-9f28-b43961ea2274</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=c198d5c3db648300efc65404ce961936"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c198d5c3db648300efc65404ce961936</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-17 12:54:01</sys_created_on>
+        <sys_id>8198d5c3db648300efc65404ce961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-17 12:54:01</sys_updated_on>
+        <value/>
+        <variable display_value="">4e62c1160b100300d97d8bf637673a10</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=c198d5c3db648300efc65404ce961936"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>c198d5c3db648300efc65404ce961936</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-17 12:54:01</sys_created_on>
+        <sys_id>0198d5c3db648300efc65404ce961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-17 12:54:01</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>&lt;p&gt;Hello&amp;nbsp;&lt;span class="data_pill " contenteditable="false" data-pillid="74c410b3-2f3a-4b9b-ba78-a536e4c45f55" data-pillvalue="{{Updated_1.current.manager.first_name}}"&gt;Trigger➛User Record➛Manager➛First name&lt;/span&gt;,&lt;/p&gt;
+&lt;p&gt;We cancelled the following open requests for&amp;nbsp;&lt;span class="data_pill " contenteditable="false" data-pillid="c77eb748-0b6e-4b6b-84cd-a0ee00d6be7c" data-pillvalue="{{Updated_1.current.name}}"&gt;Trigger➛User Record➛Name&lt;/span&gt;:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;span class="data_pill " contenteditable="false" data-pillid="ecef3e09-c0eb-47ab-a0f0-4259991238be" data-pillvalue="{{b574a413-4992-413c-a8b7-9dc3525f5020.Records}}"&gt;Action 1➛Request Records&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We reassigned the following open tasks&lt;/p&gt;
+&lt;p&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="4f34967e-e7a4-4924-9d2e-5d200d32a6dc" data-pillvalue="{{d00170b2-ea66-4162-923e-5ccfbbcd250d.Records}}"&gt;Action 3➛Task Records&lt;/span&gt;&amp;nbsp;&lt;/p&gt;</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>c198d5c3db648300efc65404ce961936</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-17 12:54:01</sys_created_on>
+        <sys_id>4d98d5c3db648300efc65404ce961937</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-17 12:54:01</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>Cancelled open requests for user {{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>c198d5c3db648300efc65404ce961936</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-17 12:54:01</sys_created_on>
+        <sys_id>8998d5c3db648300efc65404ce961937</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-17 12:54:01</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>{{Updated_1.current.manager.email}}</value>
+    </sys_element_mapping>
+</record_update>

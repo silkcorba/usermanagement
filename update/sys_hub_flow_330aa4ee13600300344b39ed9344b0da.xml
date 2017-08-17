@@ -7,18 +7,18 @@
         <latest_snapshot display_value="User Off-Boarding">d37855c3db648300efc65404ce961904</latest_snapshot>
         <name>User Off-Boarding</name>
         <show_draft_actions>false</show_draft_actions>
-        <status>published</status>
+        <status>draft</status>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-15 20:13:48</sys_created_on>
         <sys_id>330aa4ee13600300344b39ed9344b0da</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>User Off-Boarding</sys_name>
         <sys_package display_value="User Management" source="sn_user_management">a1e964ee13600300344b39ed9344b036</sys_package>
         <sys_policy/>
         <sys_scope display_value="User Management">a1e964ee13600300344b39ed9344b036</sys_scope>
         <sys_update_name>sys_hub_flow_330aa4ee13600300344b39ed9344b0da</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-17 12:53:39</sys_updated_on>
+        <sys_updated_on>2017-08-17 18:01:25</sys_updated_on>
     </sys_hub_flow>
 </record_update>

@@ -3,7 +3,7 @@
     <sys_hub_flow action="INSERT_OR_UPDATE">
         <active>false</active>
         <description>Cancel open requests</description>
-        <label_cache>[{"name":"Updated_1.current","label":"Trigger➛User Record","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"}]</label_cache>
+        <label_cache>[{"name":"Updated_1.current","label":"Trigger➛User Record","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"21e0d13a-342a-4190-ac14-95f64dc235f0.Records","label":"1➛Request Records","reference":"sc_request","reference_display":"Request","type":"records","base_type":"records"},{"name":"b033ffd0-e9e0-46b5-bc49-d73e7fd3e10f.item","label":"2➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"Updated_1.current.manager","label":"Trigger➛User Record➛Manager","reference":"sys_user","reference_display":"Manager","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"},{"name":"67abf94a-0c52-44b3-a896-6d8e6949f455.Records","label":"3➛Task Records","reference":"task","reference_display":"Task","type":"records","base_type":"records"},{"name":"fa2f8774-4a8c-4e77-8697-5043a68981f2.item","label":"4➛Task Record","reference":"task","reference_display":"Task","type":"reference","base_type":"reference"}]</label_cache>
         <latest_snapshot/>
         <name>Employee Off-Boarding</name>
         <show_draft_actions>false</show_draft_actions>
@@ -12,13 +12,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-29 22:44:00</sys_created_on>
         <sys_id>d8b2d9c3db344300efc65404ce9619f7</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Employee Off-Boarding</sys_name>
         <sys_package display_value="User Management" source="sn_user_management">a1e964ee13600300344b39ed9344b036</sys_package>
         <sys_policy/>
         <sys_scope display_value="User Management">a1e964ee13600300344b39ed9344b036</sys_scope>
         <sys_update_name>sys_hub_flow_d8b2d9c3db344300efc65404ce9619f7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-29 22:51:32</sys_updated_on>
+        <sys_updated_on>2017-08-29 23:05:15</sys_updated_on>
     </sys_hub_flow>
 </record_update>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Employee Off-Boarding">d8b2d9c3db344300efc65404ce9619f7</flow>
+        <order>4.1</order>
+        <parent_ui_id>fa2f8774-4a8c-4e77-8697-5043a68981f2</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-29 23:05:15</sys_created_on>
+        <sys_id>ef87990bdb344300efc65404ce96198b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="User Management" source="sn_user_management">a1e964ee13600300344b39ed9344b036</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Management">a1e964ee13600300344b39ed9344b036</sys_scope>
+        <sys_update_name>sys_hub_action_instance_ef87990bdb344300efc65404ce96198b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-29 23:05:16</sys_updated_on>
+        <ui_id>62fa5839-214d-4bcb-9d33-94f801071eb8</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=ef87990bdb344300efc65404ce96198b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>ef87990bdb344300efc65404ce96198b</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-29 23:05:15</sys_created_on>
+        <sys_id>bb87990bdb344300efc65404ce96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-29 23:05:15</sys_updated_on>
+        <value>task</value>
+        <variable display_value="">1fd27c8cc3c632002841b63b12d3aeb9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>ef87990bdb344300efc65404ce96198b</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-29 23:05:16</sys_created_on>
+        <sys_id>f387990bdb344300efc65404ce9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-29 23:05:16</sys_updated_on>
+        <value>task</value>
+        <variable display_value="">b5d01916c31332002841b63b12d3aec9</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=ef87990bdb344300efc65404ce96198b"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>ef87990bdb344300efc65404ce96198b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-29 23:05:15</sys_created_on>
+        <sys_id>7787990bdb344300efc65404ce96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-29 23:05:15</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value>{{fa2f8774-4a8c-4e77-8697-5043a68981f2.item}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>ef87990bdb344300efc65404ce96198b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-29 23:05:16</sys_created_on>
+        <sys_id>bf87990bdb344300efc65404ce9619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-29 23:05:16</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>{{fa2f8774-4a8c-4e77-8697-5043a68981f2.item}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>ef87990bdb344300efc65404ce96198b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-29 23:05:15</sys_created_on>
+        <sys_id>b387990bdb344300efc65404ce96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-29 23:05:15</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>ef87990bdb344300efc65404ce96198b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-29 23:05:16</sys_created_on>
+        <sys_id>fb87990bdb344300efc65404ce9619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-29 23:05:16</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>ef87990bdb344300efc65404ce96198b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-29 23:05:15</sys_created_on>
+        <sys_id>3b87990bdb344300efc65404ce96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-29 23:05:15</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value>assigned_to={{Updated_1.current.manager}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>ef87990bdb344300efc65404ce96198b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-29 23:05:16</sys_created_on>
+        <sys_id>7387990bdb344300efc65404ce9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-29 23:05:16</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>assigned_to={{Updated_1.current.manager}}</value>
+    </sys_element_mapping>
+</record_update>

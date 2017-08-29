@@ -3,9 +3,9 @@
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
-        <action_type display_value="Lookup Records">4f3fe391c30003002841b63b12d3ae7a</action_type>
+        <action_type display_value="">4f3fe391c30003002841b63b12d3ae7a</action_type>
         <comment/>
-        <compiled_snapshot display_value="Lookup Records">4f3fe391c30003002841b63b12d3ae7a</compiled_snapshot>
+        <compiled_snapshot display_value="">4f3fe391c30003002841b63b12d3ae7a</compiled_snapshot>
         <display_text/>
         <flow display_value="User Off-Boarding">9e8f642e13a00300344b39ed9344b0b1</flow>
         <order>1</order>

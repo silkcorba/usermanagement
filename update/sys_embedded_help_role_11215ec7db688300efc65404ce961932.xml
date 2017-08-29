@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="sn_tis.read" name="sn_tis.read">6a12b9d50b303200cbf38ee337673a69</role>
+        <role display_value="">6a12b9d50b303200cbf38ee337673a69</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2017-08-17 17:01:09</sys_created_on>

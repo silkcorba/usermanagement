@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="document_management_user" name="document_management_user">972206e00a0a2c3543c794db6484f3ee</role>
+        <role display_value="">972206e00a0a2c3543c794db6484f3ee</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2017-08-17 16:57:08</sys_created_on>

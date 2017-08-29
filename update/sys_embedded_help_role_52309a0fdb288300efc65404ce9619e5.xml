@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="territory_user" name="territory_user">4616cf7d37311000deeabfc8bcbe5d0b</role>
+        <role display_value="">4616cf7d37311000deeabfc8bcbe5d0b</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2017-08-17 16:57:08</sys_created_on>

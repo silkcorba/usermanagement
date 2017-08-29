@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="sn_si.special_access" name="sn_si.special_access">dfd527750b102200263a089b37673a2e</role>
+        <role display_value="">dfd527750b102200263a089b37673a2e</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2017-08-17 17:03:45</sys_created_on>

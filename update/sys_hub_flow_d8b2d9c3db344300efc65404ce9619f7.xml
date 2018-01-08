@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_hub_flow">
     <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access/>
         <active>false</active>
+        <annotation/>
+        <category/>
         <description>Cancel open requests</description>
         <label_cache>[{"name":"Updated_1.current","label":"Trigger➛User Record","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"21e0d13a-342a-4190-ac14-95f64dc235f0.Records","label":"1➛Request Records","reference":"sc_request","reference_display":"Request","type":"records","base_type":"records"},{"name":"b033ffd0-e9e0-46b5-bc49-d73e7fd3e10f.item","label":"2➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"Updated_1.current.manager","label":"Trigger➛User Record➛Manager","reference":"sys_user","reference_display":"Manager","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"},{"name":"67abf94a-0c52-44b3-a896-6d8e6949f455.Records","label":"3➛Task Records","reference":"task","reference_display":"Task","type":"records","base_type":"records"},{"name":"fa2f8774-4a8c-4e77-8697-5043a68981f2.item","label":"4➛Task Record","reference":"task","reference_display":"Task","type":"reference","base_type":"reference"}]</label_cache>
         <latest_snapshot/>
+        <master_snapshot/>
         <name>Employee Off-Boarding</name>
+        <outputs/>
         <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
         <status>draft</status>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -20,5 +26,8 @@
         <sys_update_name>sys_hub_flow_d8b2d9c3db344300efc65404ce9619f7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-09-25 21:51:54</sys_updated_on>
+        <type/>
     </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=d8b2d9c3db344300efc65404ce9619f7"/>
+    <sys_variable_value action="delete_multiple" query="document_key=d8b2d9c3db344300efc65404ce9619f7"/>
 </record_update>

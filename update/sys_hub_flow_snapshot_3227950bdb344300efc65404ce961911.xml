@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_hub_flow_snapshot">
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access/>
         <active>true</active>
+        <annotation/>
+        <category/>
         <description/>
         <label_cache>[]</label_cache>
+        <master>false</master>
         <name>test</name>
+        <outputs/>
         <parent_flow/>
         <status>published</status>
         <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
@@ -19,5 +24,8 @@
         <sys_update_name>sys_hub_flow_snapshot_3227950bdb344300efc65404ce961911</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-08-29 23:03:33</sys_updated_on>
+        <type/>
     </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=3227950bdb344300efc65404ce961911"/>
+    <sys_variable_value action="delete_multiple" query="document_key=3227950bdb344300efc65404ce961911"/>
 </record_update>

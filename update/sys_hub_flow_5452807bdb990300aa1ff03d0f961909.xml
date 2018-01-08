@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_hub_flow">
     <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access/>
         <active>false</active>
+        <annotation/>
+        <category/>
         <description>Add tasks and request items for Abraham Lincoln</description>
         <label_cache>[]</label_cache>
         <latest_snapshot/>
+        <master_snapshot/>
         <name>Create Records for Demo</name>
+        <outputs/>
         <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
         <status>draft</status>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -20,5 +26,8 @@
         <sys_update_name>sys_hub_flow_5452807bdb990300aa1ff03d0f961909</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-09-25 21:43:35</sys_updated_on>
+        <type/>
     </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=5452807bdb990300aa1ff03d0f961909"/>
+    <sys_variable_value action="delete_multiple" query="document_key=5452807bdb990300aa1ff03d0f961909"/>
 </record_update>

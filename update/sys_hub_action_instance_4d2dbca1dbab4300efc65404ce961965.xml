@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <comment/>
+        <compiled_snapshot display_value="Create Record">2de05916c31332002841b63b12d3aee1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Copy of Add User to Group">0d2dbca1dbab4300efc65404ce961912</flow>
+        <order>2.1.2.1</order>
+        <parent_ui_id>3c77f222-f5a5-4c74-a1e7-71d1685447b7</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 22:11:38</sys_created_on>
+        <sys_id>4d2dbca1dbab4300efc65404ce961965</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="User Management" source="sn_user_management">a1e964ee13600300344b39ed9344b036</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Management">a1e964ee13600300344b39ed9344b036</sys_scope>
+        <sys_update_name>sys_hub_action_instance_4d2dbca1dbab4300efc65404ce961965</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 22:11:38</sys_updated_on>
+        <ui_id>1d78fbb5-023e-4433-bcd2-d661402365ae</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=4d2dbca1dbab4300efc65404ce961965"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>4d2dbca1dbab4300efc65404ce961965</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 22:11:38</sys_created_on>
+        <sys_id>812dbca1dbab4300efc65404ce96196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 22:11:38</sys_updated_on>
+        <value>sys_user_grmember</value>
+        <variable display_value="">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=4d2dbca1dbab4300efc65404ce961965"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>4d2dbca1dbab4300efc65404ce961965</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 22:11:38</sys_created_on>
+        <sys_id>4d2dbca1dbab4300efc65404ce96196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 22:11:38</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>4d2dbca1dbab4300efc65404ce961965</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 22:11:38</sys_created_on>
+        <sys_id>012dbca1dbab4300efc65404ce96196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 22:11:38</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>group={{5bf1069d-c6f4-4fa3-a06f-5a2e0a0a0d30.item}}^user={{542a0bdf-b580-4cc2-9868-48477599a504.item}}</value>
+    </sys_element_mapping>
+</record_update>

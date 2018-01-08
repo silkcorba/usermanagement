@@ -4,6 +4,7 @@
         <action_inputs/>
         <action_inputs/>
         <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <action_type_parent/>
         <comment>Notify manager of requests cancelled</comment>
         <compiled_snapshot/>
         <display_text/>

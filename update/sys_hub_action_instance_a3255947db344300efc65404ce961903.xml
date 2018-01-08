@@ -4,6 +4,7 @@
         <action_inputs/>
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent/>
         <comment>Cancel all of the open requests for this user</comment>
         <compiled_snapshot/>
         <display_text/>

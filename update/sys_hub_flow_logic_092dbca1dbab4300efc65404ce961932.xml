@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">88a1c425db274300efc65404ce961938</block>
+        <comment/>
+        <connected_to/>
+        <display_text/>
+        <flow display_value="Copy of Add User to Group">0d2dbca1dbab4300efc65404ce961912</flow>
+        <inputs/>
+        <logic_definition display_value="true">098e1dc5c3e232002841b63b12d3ae33</logic_definition>
+        <order>2</order>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 22:11:37</sys_created_on>
+        <sys_id>092dbca1dbab4300efc65404ce961932</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="User Management" source="sn_user_management">a1e964ee13600300344b39ed9344b036</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Management">a1e964ee13600300344b39ed9344b036</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_092dbca1dbab4300efc65404ce961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 22:11:37</sys_updated_on>
+        <ui_id>542a0bdf-b580-4cc2-9868-48477599a504</ui_id>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=092dbca1dbab4300efc65404ce961932"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>092dbca1dbab4300efc65404ce961932</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 22:11:37</sys_created_on>
+        <sys_id>412dbca1dbab4300efc65404ce961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 22:11:37</sys_updated_on>
+        <value>{{Created_1.current.additional_assignee_list}}</value>
+        <variable display_value="">19df9109c32632002841b63b12d3aed6</variable>
+    </sys_variable_value>
+</record_update>

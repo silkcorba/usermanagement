@@ -4,6 +4,7 @@
         <action_inputs/>
         <action_inputs/>
         <action_type display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</action_type>
+        <action_type_parent/>
         <comment>Obtain all of the open requests from the off-boarded user</comment>
         <compiled_snapshot/>
         <display_text/>

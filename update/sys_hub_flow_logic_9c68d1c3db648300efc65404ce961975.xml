@@ -2,12 +2,14 @@
 <record_update table="sys_hub_flow_logic">
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <block display_value="">d49b68e213a00300344b39ed9344b0da</block>
+        <comment/>
         <connected_to/>
         <display_text/>
         <flow display_value="User Off-Boarding">1468d1c3db648300efc65404ce961960</flow>
         <inputs/>
-        <logic_definition display_value="For Each">098e1dc5c3e232002841b63b12d3ae33</logic_definition>
+        <logic_definition display_value="true">098e1dc5c3e232002841b63b12d3ae33</logic_definition>
         <order>2</order>
+        <outputs_to_assign/>
         <parent_ui_id/>
         <sys_class_name>sys_hub_flow_logic</sys_class_name>
         <sys_created_by>admin</sys_created_by>
